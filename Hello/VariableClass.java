@@ -9,7 +9,6 @@ public class VariableClass {
      * Is shared with other objects
      */
     static int staticVariable = 2000;
-
     public static void main(String[] args) {
         /*Non primitive data type  */
         /*Declaration */
